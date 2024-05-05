@@ -1,5 +1,5 @@
 # blog
-Blog simples com Python Django, HRML, CSS, Javascript e Bootstrap 5
+Blog simples com Python Django, HTML, CSS, Javascript e Bootstrap 5
 
 Usei um template do próprio bootstrap para ficar com um visual melhor
 
